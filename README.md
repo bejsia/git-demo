@@ -1,2 +1,2 @@
-# udemy-git-course
+# git-demo
 A demo repository to show the basic Git workflow.
